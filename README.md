@@ -15,10 +15,6 @@
 - In this App, users can see products based on different categories such as Fertilizers, Pesticides, Farming Tools, Seeds, Safety Wearables, Electronic Devices, etc.
 - Additionally we have implemented various features such as add products to cart, add to wishlist, address management, order summary payment Integration, etc.
 
-## Live Deployment
-
-Checkout the live deployment here: [AgroStores](https://agro-stores.netlify.app/)
-
 ---
 
 ## Features
